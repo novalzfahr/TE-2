@@ -1,0 +1,3 @@
+Cost: 11 $
+Execution Time: 85.51788330078125 ms
+Total allocated size: 1261.0 KiB
